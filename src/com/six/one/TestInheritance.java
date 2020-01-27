@@ -13,7 +13,7 @@ class Employee{
 	public Employee() {}
 	public double getSalary() {
 		return salary;//返回工资
-		
+		//哈哈哈
 	}
 	
 }
