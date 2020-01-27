@@ -21,7 +21,7 @@ class Employee{
 class Manager extends Employee{//经理类继承自员工类
 	private double bonus;
 	public void setBonus(double bonus) {
-		this.bonus = bonus;
+		this.bonus = bonus;//奖金
 	}
 	
 }
