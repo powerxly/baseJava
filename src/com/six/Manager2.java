@@ -1,4 +1,4 @@
-package com.six.one;
+package com.six;
 
 
 class Employee2{

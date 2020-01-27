@@ -1,4 +1,4 @@
-package com.six.two;
+package com.six;
 
 
 class Printer{

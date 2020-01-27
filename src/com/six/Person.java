@@ -1,4 +1,4 @@
-package com.six.two;
+package com.six;
 
 
 public class Person {
