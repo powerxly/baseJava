@@ -1,8 +1,5 @@
 package com.six.two;
 
-import java.sql.Date;
-
-import javax.print.attribute.standard.MediaSize.Other;
 
 public class Person {
 	private String name;
