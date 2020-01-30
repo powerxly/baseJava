@@ -1,10 +1,8 @@
 package com.six;
 
 
-class Printer{
-	public void paint() {
-		System.out.println("默认打印机无色");
-	}
+abstract class Printer{
+	public abstract void paint();
 }
 /* 彩色打印机 */
 class CPrinter extends Printer{
